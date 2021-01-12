@@ -116,13 +116,25 @@ a:hover {
 .colorimetric-img {
   width: 25%;
   float: right;
-  margin-left: 30px;
+  margin-left: 30 px;
 }
 
 .rover-image {
   width: 25%;
   float: right;
-  margin-left: 30px;
+  margin-left: 20px;
+}
+
+.Mozart-img {
+  width: 15%;
+  float: Normalized;
+  margin-left: 20px;
+}
+
+.Beethoven-img{
+  width: 15%;
+  float: Normalized;
+  margin-left: 20px;
 }
 
 
@@ -137,7 +149,7 @@ a:hover {
   -moz-border-radius: 8;
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
-  color: #e6e6fa;
+  color: #E6E6FA;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
